@@ -43,3 +43,6 @@ If you do not have a personal test chat, you may send the command to +852 687203
 ## Scripts
 - `npm run start` - run the WhatsApp bot
 - `npm run generate` - create a PDF locally without WhatsApp
+
+## Demo
+- https://youtube.com/shorts/z6vG_QEsTHA?feature=share
