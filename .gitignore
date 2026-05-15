@@ -1,6 +1,5 @@
 node_modules/
 .env
 output/
-Market_Report.pdf
 .wwebjs_auth/
 .wwebjs_cache/
